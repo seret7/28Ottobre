@@ -1,0 +1,45 @@
+header {
+    width: 100%;
+    text-align: center;
+}
+#simply{
+    width: 20%;
+    margin-bottom: 20px;
+}
+#pizza {
+    width: 40%;
+}
+main {
+    width: 50%;
+    text-align: left;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+h2 {
+    padding-left: 40px;
+}
+#introduzione {
+    margin-right: 220px;
+    margin-left: 220px;
+}
+#part {
+    margin-bottom: 20px;
+    background-color: beige;
+    color:rgb(0, 141, 122);
+}
+#fabulous {
+    font-weight: bold;
+}
+#link {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#make {
+    font-weight: bold;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
